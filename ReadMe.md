@@ -1,5 +1,36 @@
 # 💫 About Me:
-👋 Hi, I'm Viren Bhalgamiya<br>I'm a passionate AI and Software Engineer with a deep interest in building impactful and real-world solutions using Python, Machine Learning, and LLM-based applications.<br><br>🚀 What I’m working on:<br><br>A Voice-Controlled Email Assistant for Gmail automation using NLP and Speech Recognition<br><br>A Virtual Teaching Assistant that classifies student issues before querying LLMs to reduce costs and improve efficiency<br><br>A Language Learning Agent powered by LangGraph and Spaced Repetition for better vocabulary retention<br><br>CodeBuddy a AI Teaching Assistant Module which is a part of Virtual Teaching Assisant Project<br><br>🧠 What I’m learning:<br><br>Fine-tuning transformer models and applying MLOps principles to AI projects<br><br>Optimizing AI tools for performance using XGBoost, LLM APIs, and efficient prompt engineering<br><br>🌐 Tech Stack:<br><br>Languages: Python, JavaScript, SQL<br><br>Frameworks: LangChain, Flask, Streamlit, Next.js<br><br>ML/AI: Hugging Face Transformers, XGBoost, Scikit-learn<br><br>DevOps: Docker, GitHub Actions<br><br>Databases: Firebase, MongoDB<br><br>📫 Let's connect:<br>Feel free to check out my projects, open an issue, or reach out — I’m always up for building meaningful tools and learning together!
+# 👋 Hi, I'm Viren Bhalgamiya  
+
+I'm a **passionate AI and Software Engineer** with a deep interest in building impactful and real-world solutions using **Python, Machine Learning, and LLM-based applications**.  
+
+---
+
+## 🚀 What I’m Working On  
+- 🎙️ **Voice-Controlled Email Assistant** – Automates Gmail using NLP + Speech Recognition  
+- 🎓 **Virtual Teaching Assistant** – Classifies student issues before querying LLMs to reduce costs and improve efficiency  
+- 💬 **CodeBuddy (AI Teaching Assistant Module)** – A part of the Virtual Teaching Assistant for code guidance & error-solving  
+- 🌍 **Language Learning Agent** – Built with LangGraph + Spaced Repetition for smarter vocabulary retention  
+- 💳 **Oracle Cloud Expense Manager** – A full-stack expense management platform with AI-powered financial insights  
+- 👥 **Customer Segmentation Project** – Data-driven analysis to identify user clusters and improve personalization  
+
+---
+
+## 🧠 What I’m Learning  
+- 🔬 Fine-tuning Transformer Models for specialized tasks  
+- ⚙️ Applying **MLOps principles** to scale AI projects  
+- 📈 Optimizing AI tools with **XGBoost, LLM APIs, and prompt engineering**  
+
+---
+
+## 🌐 Tech Stack  
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks:** LangChain, Flask, Streamlit, Next.js  
+- **ML/AI:** Hugging Face Transformers, XGBoost, Scikit-learn  
+- **DevOps:** Docker, GitHub Actions  
+- **Databases:** Firebase, MongoDB  
+
+---
+
 
 
 ## 🌐 Socials:
