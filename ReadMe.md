@@ -10,22 +10,17 @@ I'm a **passionate AI and Software Engineer** with a deep interest in building i
 - 🎓 **Virtual Teaching Assistant** – Classifies student issues before querying LLMs to reduce costs and improve efficiency  
 - 💬 **CodeBuddy (AI Teaching Assistant Module)** – A part of the Virtual Teaching Assistant for code guidance & error-solving  
 - 🌍 **Language Learning Agent** – Built with LangGraph + Spaced Repetition for smarter vocabulary retention  
-- 💳 **Oracle Cloud Expense Manager** – A full-stack expense management platform with AI-powered financial insights  
-- 👥 **Customer Segmentation Project** – Data-driven analysis to identify user clusters and improve personalization  
-
----
-
-## 🧠 What I’m Learning  
-- 🔬 Fine-tuning Transformer Models for specialized tasks  
-- ⚙️ Applying **MLOps principles** to scale AI projects  
-- 📈 Optimizing AI tools with **XGBoost, LLM APIs, and prompt engineering**  
+- 💳 **Expense Management System with AI Insights** – A full-stack expense management platform with AI-powered financial insights  
+- 👥 **Customer Segmentation Project** – Data-driven analysis to identify user clusters and improve personalization
+- 🚀 **Collaborative Research Agent** - Fetches top research papers , gives summary and shows relationship between fetched papers.
+ 
 
 ---
 
 ## 🌐 Tech Stack  
 - **Languages:** Python, JavaScript, SQL  
 - **Frameworks:** LangChain, Flask, Streamlit, Next.js  
-- **ML/AI:** Hugging Face Transformers, XGBoost, Scikit-learn  
+- **ML/AI:** Hugging Face Transformers, XGBoost, Scikit-learn , Numpy , Scikit-learn, Tensorflow , Pytorch
 - **DevOps:** Docker, GitHub Actions  
 - **Databases:** Firebase, MongoDB  
 
