@@ -5,14 +5,15 @@ I'm a **passionate AI and Software Engineer** with a deep interest in building i
 
 ---
 
-## 🚀 What I’m Working On  
-- 🎙️ **Voice-Controlled Email Assistant** – Automates Gmail using NLP + Speech Recognition  
-- 🎓 **Virtual Teaching Assistant** – Classifies student issues before querying LLMs to reduce costs and improve efficiency  
-- 💬 **CodeBuddy (AI Teaching Assistant Module)** – A part of the Virtual Teaching Assistant for code guidance & error-solving  
-- 🌍 **Language Learning Agent** – Built with LangGraph + Spaced Repetition for smarter vocabulary retention  
-- 💳 **Expense Management System with AI Insights** – A full-stack expense management platform with AI-powered financial insights  
-- 👥 **Customer Segmentation Project** – Data-driven analysis to identify user clusters and improve personalization  
-- 🚀 **Collaborative Research Agent** - Fetches top research papers, gives summaries, and shows relationships between fetched papers  
+## 🚀 Projects I’ve Built 
+- 🎙️ **Voice-Controlled Email Assistant** – Automated Gmail workflows using NLP + Speech Recognition  
+- 🎓 **Virtual Teaching Assistant** – Built a cost-efficient issue classification system before querying LLMs  
+- 💬 **CodeBuddy (AI Teaching Assistant Module)** – Designed guided code/error feedback to reduce unnecessary LLM calls  
+- 🌍 **Language Learning Agent** – Implemented LangGraph + spaced repetition for vocabulary retention  
+- 💳 **Expense Management System with AI Insights** – Built a full-stack platform with AI-driven financial insights  
+- 👥 **Customer Segmentation Project** – Performed data-driven clustering to identify user segments  
+- 🚀 **Collaborative Research Agent** – Automated research paper retrieval, summarization, and relationship analysis
+
 ---
 
 ## 🔥 Featured Projects from My Website
