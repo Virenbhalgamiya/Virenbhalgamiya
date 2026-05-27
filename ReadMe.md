@@ -136,16 +136,17 @@ class VirenBhalgamiya:
 
 # 🧩 Additional Projects
 
-- Hybrid LLM Automation System
-- FastAPI Task Queue
-- Recommendfy
-- RAG using LLAMA3
-- Automated Teaching Assistant
-- Lisa Voice Assistant
-- LangChain Chatbot with Memory
-- Customer Segmentation
-- Multilingual Sentiment Dashboard
-
+| Project | Description |
+|---|---|
+| [Quasar-LOB](https://github.com/Virenbhalgamiya/Quasar-LOB) | High-performance limit order book implementation for trading systems |
+| [FastAPI Task Queue](https://github.com/Virenbhalgamiya/fastapi-task-queue) | Distributed asynchronous task execution framework |
+| [Recommendfy](https://github.com/Virenbhalgamiya/Recommendfy-Project) | Hybrid recommendation engine with collaborative + content-based filtering |
+| [RAG using LLAMA3](https://github.com/Virenbhalgamiya/RAG-using-LLAMA3) | Retrieval-Augmented Generation pipeline using LLAMA3 |
+| [Automated Teaching Assistant](https://github.com/Virenbhalgamiya/Automated-Teaching-Assitant) | Intelligent TA system reducing unnecessary LLM calls |
+| [Lisa Voice Assistant](https://github.com/Virenbhalgamiya/lisa_voice_assistant) | Voice-controlled assistant with NLP-based command execution |
+| [LangChain Chatbot with Memory](https://github.com/Virenbhalgamiya/Chatbot_using_Langchain_with_memory) | Conversational chatbot with contextual memory handling |
+| [Customer Segmentation](https://github.com/Virenbhalgamiya/Customer-Segmentation) | K-Means based customer clustering and analytics |
+| [Multilingual Sentiment Dashboard](https://github.com/Virenbhalgamiya/Multilingual-Sentiment-analysis-dashboard) | NLP dashboard for multilingual sentiment analysis |
 ---
 
 <p align="center">
