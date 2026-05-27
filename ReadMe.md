@@ -1,128 +1,153 @@
-# 👋 Hi, I'm Viren Bhalgamiya
+<h1 align="center">Hi 👋, I'm Viren Bhalgamiya</h1>
+<h3 align="center">
+AI Engineer • ML Researcher • Backend & Systems Developer
+</h3>
 
-M.Tech graduate from DAIICT focused on building intelligent systems using Machine Learning, LLMs, distributed architectures, and high-performance backend engineering.
+<p align="center">
+Building Agentic AI Systems, Distributed ML Architectures, and High-Performance Backend Infrastructure.
+</p>
 
-I enjoy working on:
-- Agentic AI Systems
-- Retrieval-Augmented Generation (RAG)
-- AI Infrastructure & Automation
-- Distributed/Federated ML
-- Low-Latency Backend Systems
-- Applied NLP & Deep Learning
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://virenbhalgamiya.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viren-bhalgamiya)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virubhalgamiya@gmail.com)
+
+</div>
+
+---
+
+# ⚡ About Me
+
+```python
+class VirenBhalgamiya:
+
+    interests = [
+        "Agentic AI",
+        "Distributed ML",
+        "RAG Systems",
+        "Low Latency Systems",
+        "LLM Infrastructure",
+        "Applied NLP"
+    ]
+
+    tech_stack = {
+        "Languages": ["Python", "C++", "JavaScript", "SQL"],
+        "AI/ML": ["PyTorch", "LangGraph", "Transformers", "TensorFlow"],
+        "Backend": ["FastAPI", "Flask", "Node.js"],
+        "Infra": ["Docker", "PostgreSQL", "MongoDB"]
+    }
+
+    currently_building = [
+        "Adaptive Agentic RAG",
+        "Collaborative Research Agents",
+        "AI Teaching Systems"
+    ]
+```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔹 Adaptive Agentic RAG
-Intelligent self-correcting RAG pipeline built using LangGraph with dynamic routing between vector databases, web search, and direct LLM reasoning. Includes hallucination detection and query refinement loops.
+## 🧠 Adaptive Agentic RAG
+> Self-correcting RAG architecture with hallucination grading, query refinement, and dynamic routing.
 
-**Tech:** LangGraph, FastAPI, ChromaDB, DeepSeek V3
+**Tech:** `LangGraph` `FastAPI` `ChromaDB` `DeepSeek`
 
 🔗 https://github.com/Virenbhalgamiya/adaptive-agentic-rag
 
 ---
 
-## 🔹 High-Performance Order Matching Engine
-Ultra-low latency C++20 trading engine implementing price-time priority matching, object-pool memory reuse, multi-threaded TCP gateways, and lock-protected queues.
+## ⚡ High Performance Order Matching Engine
+> Ultra-low latency matching engine with object pools, multithreading, TCP gateways, and price-time priority execution.
 
-**Tech:** C++20, Multithreading, Low-Latency Systems, CMake
+**Tech:** `C++20` `Multithreading` `Low-Latency Systems`
 
 🔗 https://github.com/Virenbhalgamiya/High-Performance-Order-Matching-Engine
 
 ---
 
-## 🔹 Federated Anomaly Detection
-Research-oriented federated deep learning framework for anomaly detection on distributed particle physics datasets using VAE architectures with Differential Privacy and FedProx stabilization.
+## 🌐 Federated Anomaly Detection
+> Federated VAE-based anomaly detection pipeline with Differential Privacy and FedProx stabilization.
 
-**Tech:** PyTorch, Opacus, Federated Learning, Scikit-Learn
+**Tech:** `PyTorch` `Federated Learning` `Opacus`
 
 🔗 https://github.com/Virenbhalgamiya/Federated-Anomaly-Detection
 
 ---
 
-## 🔹 GNN Particle Tracking
-Graph Neural Network based particle tracking system designed for High-Energy Physics applications using graph-based relational learning.
+## 🔬 GNN Particle Tracking
+> Graph Neural Network pipeline for particle trajectory reconstruction in High-Energy Physics.
 
-**Tech:** PyTorch Geometric, GNNs, Deep Learning
+**Tech:** `PyTorch Geometric` `GNNs`
 
 🔗 https://github.com/Virenbhalgamiya/gnn-particle-tracking
 
 ---
 
-## 🔹 Collaborative Research Agent
-Multi-agent research workflow that automates paper retrieval, summarization, contradiction analysis, and semantic relationship visualization.
+## 🤖 Collaborative Research Agent
+> Multi-agent workflow for autonomous paper retrieval, summarization, contradiction analysis, and semantic graph visualization.
 
-**Tech:** LangGraph, Transformers, Sentence-Transformers, NetworkX
+**Tech:** `LangGraph` `Transformers` `NetworkX`
 
 🔗 https://github.com/Virenbhalgamiya/Collaborative-Research-Agent
 
 ---
 
-## 🔹 Hybrid LLM Automation System
-Secure AI automation framework separating LLM reasoning from deterministic execution pipelines with policy validation layers for safe task execution.
+## 💳 Expense Management System with AI Insights
+> AI-powered financial analytics platform with smart categorization and LLM-driven recommendations.
 
-**Tech:** Python, LLMs, Automation Systems
-
-🔗 https://github.com/Virenbhalgamiya/hybrid-llm-automation
-
----
-
-## 🔹 Expense Management System with AI Insights
-Full-stack AI-powered financial analytics platform with intelligent categorization, spending analysis, and recommendation generation.
-
-**Tech:** FastAPI, React, PostgreSQL, Groq API
+**Tech:** `FastAPI` `React` `PostgreSQL` `Groq API`
 
 🔗 https://github.com/Virenbhalgamiya/Expense-Management-System-with-AI-Insights
 
 ---
 
-## 🔹 Automated Teaching Assistant
-AI-powered teaching assistant that validates issue-code-error relationships before querying LLMs to reduce unnecessary inference cost.
+# 🛠️ Tech Stack
 
-**Tech:** NLP, XGBoost, CodeBERT, LLM Integration
+<div align="center">
 
-🔗 https://github.com/Virenbhalgamiya/Automated-Teaching-Assitant
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=c%2B%2B)
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
 
----
-
-# 🧠 Additional Projects
-
-- Quasar-LOB — High-performance limit order book implementation
-- FastAPI Task Queue — Distributed async task execution system
-- Recommendfy — Hybrid recommendation engine
-- RAG using LLAMA3 — Retrieval-Augmented QA system
-- Lisa Voice Assistant — Voice-controlled automation assistant
-- LangChain Chatbot with Memory — Context-aware conversational AI
-- Customer Segmentation — ML clustering pipeline
-- Multilingual Sentiment Dashboard — NLP dashboard with deep learning models
+</div>
 
 ---
 
-# ⚙️ Tech Stack
+# 📊 GitHub Analytics
 
-### Languages
-Python • C++ • JavaScript • SQL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Virenbhalgamiya&show_icons=true&theme=tokyonight" />
+</p>
 
-### AI / ML
-PyTorch • TensorFlow • Hugging Face • LangChain • LangGraph • Scikit-Learn • XGBoost
-
-### Backend & Infrastructure
-FastAPI • Flask • Node.js • Docker • PostgreSQL • MongoDB • Firebase • CMake
-
-### Specialized Areas
-Agentic AI • RAG Systems • Federated Learning • NLP • Distributed Systems • Low-Latency Systems
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virenbhalgamiya&theme=tokyonight" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🧩 Additional Projects
 
-- LinkedIn: https://linkedin.com/in/viren-bhalgamiya
-- Portfolio: https://virenbhalgamiya.netlify.app/
-- Email: virubhalgamiya@gmail.com
+- Hybrid LLM Automation System
+- FastAPI Task Queue
+- Recommendfy
+- RAG using LLAMA3
+- Automated Teaching Assistant
+- Lisa Voice Assistant
+- LangChain Chatbot with Memory
+- Customer Segmentation
+- Multilingual Sentiment Dashboard
 
 ---
 
-# 📈 GitHub Stats
-
-<!-- Add your preferred GitHub stats widgets here -->
+<p align="center">
+⚡ Building AI systems that combine research, engineering, and production scalability.
+</p>
