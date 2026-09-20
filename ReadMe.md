@@ -147,6 +147,16 @@ class VirenBhalgamiya:
 | [LangChain Chatbot with Memory](https://github.com/Virenbhalgamiya/Chatbot_using_Langchain_with_memory) | Conversational chatbot with contextual memory handling |
 | [Customer Segmentation](https://github.com/Virenbhalgamiya/Customer-Segmentation) | K-Means based customer clustering and analytics |
 | [Multilingual Sentiment Dashboard](https://github.com/Virenbhalgamiya/Multilingual-Sentiment-analysis-dashboard) | NLP dashboard for multilingual sentiment analysis |
+| [Chennai Metro Agentic Prototype](https://github.com/Virenbhalgamiya/chennai-metro-agentic-prototype) | Agentic AI prototype for analyzing and managing Chennai Metro systems |
+| [Multi-Agent Incident Response](https://github.com/Virenbhalgamiya/multi-agent-incident-response-system) | Robust multi-agent AI system for automating incident response workflows |
+| [Enterprise Ops Management](https://github.com/Virenbhalgamiya/Enterprise-ops-management-platform) | Platform tailored for managing and streamlining enterprise operations |
+| [Automatic Code Review](https://github.com/Virenbhalgamiya/Automatic-code-review) | Automated tool to perform code reviews and ensure code quality |
+| [Device Diagnostic Log Parser](https://github.com/Virenbhalgamiya/Device-Diagnostic-Log-Parser) | High-performance C parser for extracting insights from device logs |
+| [CodeBuddy](https://github.com/Virenbhalgamiya/CodeBuddy) | Collaborative coding companion and assistant built with JavaScript |
+| [DA-IICT Minor Project](https://github.com/Virenbhalgamiya/Daiict_Minor_project) | Minor academic project focused on applied machine learning |
+| [Aadhaar Update Analysis](https://github.com/Virenbhalgamiya/aadhaar-demographic-update-analysis) | Data analysis and insights regarding Aadhaar demographic updates |
+| [LangChain Chatbot](https://github.com/Virenbhalgamiya/langchain_chatbot) | Conversational chatbot utilizing the LangChain framework |
+| [Cyber Security AI Agent](https://github.com/Virenbhalgamiya/AI-agent-for-cyber-security) | AI-driven agent tailored for monitoring and mitigating cybersecurity threats |
 ---
 
 <p align="center">
