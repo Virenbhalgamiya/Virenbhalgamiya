@@ -52,7 +52,9 @@ class VirenBhalgamiya:
 # 🚀 Featured Projects
 
 ## 🧠 Adaptive Agentic RAG
-> Self-correcting RAG architecture with hallucination grading, query refinement, and dynamic routing.
+- Designed to solve hallucination and context-limit issues in traditional LLM applications by implementing a self-correcting RAG architecture.
+- Built a dynamic routing system with hallucination grading and query refinement to ensure high-accuracy responses from custom knowledge bases.
+- Utilized LangGraph and DeepSeek to create autonomous agents that iteratively improve retrieval quality.
 
 **Tech:** `LangGraph` `FastAPI` `ChromaDB` `DeepSeek`
 
@@ -61,7 +63,9 @@ class VirenBhalgamiya:
 ---
 
 ## ⚡ High Performance Order Matching Engine
-> Ultra-low latency matching engine with object pools, multithreading, TCP gateways, and price-time priority execution.
+- Developed to address the critical need for ultra-low latency and high throughput in financial trading environments.
+- Architected a robust C++20 matching engine utilizing object pools, lock-free data structures, and multithreading to eliminate overhead.
+- Implemented strict price-time priority execution via TCP gateways to securely and rapidly process thousands of concurrent orders.
 
 **Tech:** `C++20` `Multithreading` `Low-Latency Systems`
 
@@ -70,7 +74,9 @@ class VirenBhalgamiya:
 ---
 
 ## 🌐 Federated Anomaly Detection
-> Federated VAE-based anomaly detection pipeline with Differential Privacy and FedProx stabilization.
+- Created to enable robust anomaly detection across multiple distributed edge devices without compromising sensitive data privacy.
+- Designed a federated Variational Autoencoder (VAE) pipeline enhanced with Differential Privacy and FedProx for model stabilization.
+- Successfully aggregated decentralized models using PyTorch and Opacus to maintain high detection accuracy on non-IID datasets.
 
 **Tech:** `PyTorch` `Federated Learning` `Opacus`
 
@@ -79,7 +85,9 @@ class VirenBhalgamiya:
 ---
 
 ## 🔬 GNN Particle Tracking
-> Graph Neural Network pipeline for particle trajectory reconstruction in High-Energy Physics.
+- Initiated to solve the computationally expensive problem of reconstructing particle trajectories from massive collision datasets in High-Energy Physics.
+- Built a sophisticated Graph Neural Network pipeline using PyTorch Geometric to accurately identify underlying physical relationships.
+- Significantly reduced reconstruction time and improved spatial accuracy compared to traditional heuristic-based tracking algorithms.
 
 **Tech:** `PyTorch Geometric` `GNNs`
 
@@ -88,7 +96,9 @@ class VirenBhalgamiya:
 ---
 
 ## 🤖 Collaborative Research Agent
-> Multi-agent workflow for autonomous paper retrieval, summarization, contradiction analysis, and semantic graph visualization.
+- Built to alleviate the manual burden of conducting extensive literature reviews and synthesizing complex academic papers.
+- Engineered a multi-agent workflow capable of autonomous paper retrieval, deep summarization, and identifying contradictions in research.
+- Leveraged LangGraph and Transformers to construct dynamic semantic graphs using NetworkX, allowing visual exploration of research landscapes.
 
 **Tech:** `LangGraph` `Transformers` `NetworkX`
 
@@ -97,7 +107,9 @@ class VirenBhalgamiya:
 ---
 
 ## 💳 Expense Management System with AI Insights
-> AI-powered financial analytics platform with smart categorization and LLM-driven recommendations.
+- Designed to help users gain actionable intelligence from their fragmented financial data and daily expense logs.
+- Developed a full-stack platform featuring smart categorization and LLM-driven financial recommendations using the Groq API.
+- Integrated a fast and scalable backend using FastAPI and PostgreSQL, with a responsive React frontend for a seamless user experience.
 
 **Tech:** `FastAPI` `React` `PostgreSQL` `Groq API`
 
